@@ -1,4 +1,4 @@
-module xlog
+module github.com/mxi81/xlog
 
 go 1.12
 
